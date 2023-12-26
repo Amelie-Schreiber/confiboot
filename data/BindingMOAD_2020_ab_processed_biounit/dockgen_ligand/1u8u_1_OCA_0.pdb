@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and...d resnum `201`)'
+HETATM    1  C1  OCA A 201       7.011  35.083  50.514  1.00 41.59         A C  
+HETATM    2  C2  OCA A 201       6.977  34.331  51.835  1.00 42.03         A C  
+HETATM    3  C3  OCA A 201       5.643  34.198  52.569  1.00 44.77         A C  
+HETATM    4  C4  OCA A 201       5.923  34.236  54.055  1.00 45.46         A C  
+HETATM    5  C5  OCA A 201       4.841  33.527  54.836  1.00 46.36         A C  
+HETATM    6  C6  OCA A 201       5.182  33.215  56.289  1.00 46.31         A C  
+HETATM    7  C7  OCA A 201       4.040  33.572  57.225  1.00 46.44         A C  
+HETATM    8  C8  OCA A 201       4.277  34.686  58.259  1.00 47.17         A C  
+HETATM    9  O1  OCA A 201       7.119  36.368  50.660  1.00 38.90         A O  
+HETATM   10  O2  OCA A 201       6.968  34.424  49.404  1.00 41.42         A O  

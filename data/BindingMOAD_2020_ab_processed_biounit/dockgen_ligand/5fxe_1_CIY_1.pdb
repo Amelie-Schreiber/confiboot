@@ -1,0 +1,14 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  C1  CIY A 602      17.140  13.764  37.658  1.00 12.56         A C  
+HETATM    2  C2  CIY A 602      17.453  15.064  37.223  1.00 11.90         A C  
+HETATM    3  C3  CIY A 602      17.379  15.377  35.878  1.00 11.89         A C  
+HETATM    4  O3  CIY A 602      17.617  16.620  35.358  1.00 13.65         A O  
+HETATM    5  C4  CIY A 602      16.956  14.396  34.965  1.00 11.81         A C  
+HETATM    6  O4  CIY A 602      16.839  14.676  33.626  1.00 11.97         A O  
+HETATM    7  C5  CIY A 602      16.596  13.131  35.440  1.00 11.75         A C  
+HETATM    8  C6  CIY A 602      16.719  12.812  36.752  1.00 11.66         A C  
+HETATM    9  C7  CIY A 602      17.256  13.327  38.976  1.00 15.38         A C  
+HETATM   10  C8  CIY A 602      17.999  13.890  39.916  1.00 17.86         A C  
+HETATM   11  C9  CIY A 602      18.224  13.246  41.268  1.00 21.84         A C  
+HETATM   12  O9  CIY A 602      17.347  13.680  42.343  1.00 27.28         A O  
+HETATM   13  C3M CIY A 602      18.180  17.671  36.151  1.00 12.81         A C  

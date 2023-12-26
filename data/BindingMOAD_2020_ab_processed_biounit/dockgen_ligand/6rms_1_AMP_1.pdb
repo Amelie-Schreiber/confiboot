@@ -1,0 +1,71 @@
+REMARK Selection '(segment B) and...d resnum `504`)'
+HETATM    1  P   AMP A 504      41.656  15.687  29.222  1.00 32.63         B P  
+ANISOU    1  P   AMP A 504        0      0      0      0      0      0     B P  
+HETATM    2  O1P AMP A 504      41.944  16.229  30.616  1.00 36.29         B O  
+ANISOU    2  O1P AMP A 504        0      0      0      0      0      0     B O  
+HETATM    3  O2P AMP A 504      41.743  14.184  29.189  1.00 24.21         B O  
+ANISOU    3  O2P AMP A 504        0      0      0      0      0      0     B O  
+HETATM    4  O3P AMP A 504      42.417  16.493  28.179  1.00 34.98         B O  
+ANISOU    4  O3P AMP A 504        0      0      0      0      0      0     B O  
+HETATM    5  O5' AMP A 504      40.088  15.984  29.056  1.00 33.57         B O  
+ANISOU    5  O5' AMP A 504        0      0      0      0      0      0     B O  
+HETATM    6  C5' AMP A 504      39.592  17.324  29.000  1.00 32.57         B C  
+ANISOU    6  C5' AMP A 504        0      0      0      0      0      0     B C  
+HETATM    7  C4' AMP A 504      38.067  17.364  29.112  1.00 32.67         B C  
+ANISOU    7  C4' AMP A 504        0      0      0      0      0      0     B C  
+HETATM    8  O4' AMP A 504      37.450  16.861  27.913  1.00 31.05         B O  
+ANISOU    8  O4' AMP A 504        0      0      0      0      0      0     B O  
+HETATM    9  C3' AMP A 504      37.506  16.539  30.265  1.00 32.19         B C  
+ANISOU    9  C3' AMP A 504        0      0      0      0      0      0     B C  
+HETATM   10  O3' AMP A 504      36.361  17.230  30.801  1.00 31.50         B O  
+ANISOU   10  O3' AMP A 504        0      0      0      0      0      0     B O  
+HETATM   11  C2' AMP A 504      37.096  15.232  29.608  1.00 30.89         B C  
+ANISOU   11  C2' AMP A 504        0      0      0      0      0      0     B C  
+HETATM   12  O2' AMP A 504      36.036  14.546  30.302  1.00 29.74         B O  
+ANISOU   12  O2' AMP A 504        0      0      0      0      0      0     B O  
+HETATM   13  C1' AMP A 504      36.716  15.684  28.208  1.00 29.93         B C  
+ANISOU   13  C1' AMP A 504        0      0      0      0      0      0     B C  
+HETATM   14  N9  AMP A 504      36.965  14.615  27.217  1.00 32.69         B N  
+ANISOU   14  N9  AMP A 504        0      0      0      0      0      0     B N  
+HETATM   15  C8  AMP A 504      38.113  13.940  27.014  1.00 31.20         B C  
+ANISOU   15  C8  AMP A 504        0      0      0      0      0      0     B C  
+HETATM   16  N7  AMP A 504      37.948  12.996  26.060  1.00 30.14         B N  
+ANISOU   16  N7  AMP A 504        0      0      0      0      0      0     B N  
+HETATM   17  C5  AMP A 504      36.676  13.084  25.622  1.00 29.75         B C  
+ANISOU   17  C5  AMP A 504        0      0      0      0      0      0     B C  
+HETATM   18  C6  AMP A 504      35.830  12.379  24.639  1.00 28.18         B C  
+ANISOU   18  C6  AMP A 504        0      0      0      0      0      0     B C  
+HETATM   19  N6  AMP A 504      36.322  11.376  23.894  1.00 26.46         B N  
+ANISOU   19  N6  AMP A 504        0      0      0      0      0      0     B N  
+HETATM   20  N1  AMP A 504      34.551  12.784  24.494  1.00 27.26         B N  
+ANISOU   20  N1  AMP A 504        0      0      0      0      0      0     B N  
+HETATM   21  C2  AMP A 504      34.022  13.776  25.241  1.00 31.10         B C  
+ANISOU   21  C2  AMP A 504        0      0      0      0      0      0     B C  
+HETATM   22  N3  AMP A 504      34.726  14.457  26.162  1.00 30.10         B N  
+ANISOU   22  N3  AMP A 504        0      0      0      0      0      0     B N  
+HETATM   23  C4  AMP A 504      36.032  14.164  26.380  1.00 30.91         B C  
+ANISOU   23  C4  AMP A 504        0      0      0      0      0      0     B C  
+HETATM   24 H5'1 AMP A 504      39.899  17.783  28.058  1.00 32.56         B H  
+ANISOU   24 H5'1 AMP A 504        0      0      0      0      0      0     B H  
+HETATM   25 H5'2 AMP A 504      40.032  17.912  29.808  1.00 32.56         B H  
+ANISOU   25 H5'2 AMP A 504        0      0      0      0      0      0     B H  
+HETATM   26  H4' AMP A 504      37.764  18.411  29.255  1.00 32.65         B H  
+ANISOU   26  H4' AMP A 504        0      0      0      0      0      0     B H  
+HETATM   27  H3' AMP A 504      38.272  16.344  31.028  1.00 32.20         B H  
+ANISOU   27  H3' AMP A 504        0      0      0      0      0      0     B H  
+HETATM   28 HO3' AMP A 504      35.531  16.939  30.405  1.00 31.51         B H  
+ANISOU   28 HO3' AMP A 504        0      0      0      0      0      0     B H  
+HETATM   29  H2' AMP A 504      37.970  14.573  29.576  1.00 30.88         B H  
+ANISOU   29  H2' AMP A 504        0      0      0      0      0      0     B H  
+HETATM   30 HO2' AMP A 504      35.471  14.109  29.655  1.00 29.70         B H  
+ANISOU   30 HO2' AMP A 504        0      0      0      0      0      0     B H  
+HETATM   31  H1' AMP A 504      35.646  15.935  28.226  1.00 29.93         B H  
+ANISOU   31  H1' AMP A 504        0      0      0      0      0      0     B H  
+HETATM   32  H8  AMP A 504      39.033  14.113  27.555  1.00 31.20         B H  
+ANISOU   32  H8  AMP A 504        0      0      0      0      0      0     B H  
+HETATM   33 HN61 AMP A 504      37.267  11.071  23.988  1.00 26.48         B H  
+ANISOU   33 HN61 AMP A 504        0      0      0      0      0      0     B H  
+HETATM   34 HN62 AMP A 504      35.728  10.959  23.211  1.00 26.48         B H  
+ANISOU   34 HN62 AMP A 504        0      0      0      0      0      0     B H  
+HETATM   35  H2  AMP A 504      32.985  14.029  25.105  1.00 31.11         B H  
+ANISOU   35  H2  AMP A 504        0      0      0      0      0      0     B H  

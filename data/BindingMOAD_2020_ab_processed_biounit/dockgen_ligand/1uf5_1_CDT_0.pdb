@@ -1,0 +1,13 @@
+REMARK Selection '(segment A) and...d resnum `998`)'
+HETATM    1  NT  CDT A 998      53.314  80.035  -4.453  1.00  7.80         A N  
+HETATM    2  CT  CDT A 998      52.736  80.295  -3.263  1.00  9.35         A C  
+HETATM    3  OT  CDT A 998      52.322  81.424  -3.023  1.00  9.32         A O  
+HETATM    4  N   CDT A 998      52.608  79.291  -2.350  1.00  9.10         A N  
+HETATM    5  CA  CDT A 998      52.092  79.512  -0.981  1.00  9.47         A C  
+HETATM    6  CB  CDT A 998      52.605  78.372  -0.075  1.00 11.02         A C  
+HETATM    7  CG  CDT A 998      52.195  78.557   1.408  1.00 11.85         A C  
+HETATM    8  SD  CDT A 998      52.916  80.072   2.128  1.00 16.24         A S  
+HETATM    9  CE  CDT A 998      54.681  79.816   1.790  1.00 11.70         A C  
+HETATM   10  C   CDT A 998      50.570  79.531  -0.996  1.00  8.88         A C  
+HETATM   11  O   CDT A 998      49.946  78.745  -1.678  1.00  8.59         A O  
+HETATM   12  OXT CDT A 998      49.926  80.423  -0.245  1.00  9.77         A O  

@@ -1,0 +1,41 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C1  BOG A 301       1.148  -7.083  30.088  1.00 19.84         A C  
+ANISOU    1  C1  BOG A 301     2662   2122   2752   -462   -231    -68     A C  
+HETATM    2  O1  BOG A 301       2.405  -7.463  29.490  1.00 20.52         A O  
+ANISOU    2  O1  BOG A 301     2703   2710   2381    195   -553    332     A O  
+HETATM    3  C2  BOG A 301       0.377  -8.388  30.441  1.00 18.35         A C  
+ANISOU    3  C2  BOG A 301     1943   2535   2494   -344   -256    518     A C  
+HETATM    4  O2  BOG A 301       0.147  -9.178  29.300  1.00 18.62         A O  
+ANISOU    4  O2  BOG A 301     2248   2425   2400   -143    -27    474     A O  
+HETATM    5  C3  BOG A 301      -0.878  -7.974  31.179  1.00 18.35         A C  
+ANISOU    5  C3  BOG A 301     2408   2317   2245    354   -281    202     A C  
+HETATM    6  O3  BOG A 301      -1.516  -9.097  31.675  1.00 17.81         A O  
+ANISOU    6  O3  BOG A 301     2258   2534   1971    509    202    132     A O  
+HETATM    7  C4  BOG A 301      -0.648  -6.926  32.255  1.00 21.54         A C  
+ANISOU    7  C4  BOG A 301     2696   3276   2209    -65   -480    -39     A C  
+HETATM    8  O4  BOG A 301      -1.944  -6.466  32.693  1.00 22.23         A O  
+ANISOU    8  O4  BOG A 301     2902   3089   2453   -229    123   -302     A O  
+HETATM    9  C5  BOG A 301       0.107  -5.731  31.733  1.00 22.35         A C  
+ANISOU    9  C5  BOG A 301     2814   3200   2477   -502   -462   -353     A C  
+HETATM   10  O5  BOG A 301       1.329  -6.154  31.165  1.00 21.20         A O  
+ANISOU   10  O5  BOG A 301     3057   1865   3132     13   -627   -133     A O  
+HETATM   11  C6  BOG A 301       0.434  -4.711  32.828  1.00 21.40         A C  
+ANISOU   11  C6  BOG A 301     3231   2710   2187   -440   -154     -9     A C  
+HETATM   12  O6  BOG A 301       1.139  -3.651  32.210  1.00 23.56         A O  
+ANISOU   12  O6  BOG A 301     2446   2407   4096   -345   -743    336     A O  
+HETATM   13  C1' BOG A 301       3.066  -6.482  28.734  1.00 20.34         A C  
+ANISOU   13  C1' BOG A 301     2790   2233   2702   -111     13   -101     A C  
+HETATM   14  C2' BOG A 301       4.047  -7.237  27.876  1.00 22.07         A C  
+ANISOU   14  C2' BOG A 301     3479   2473   2431   -180    313   -188     A C  
+HETATM   15  C3' BOG A 301       4.669  -6.267  26.894  1.00 19.32         A C  
+ANISOU   15  C3' BOG A 301     1769   2514   3055   -287   -417    144     A C  
+HETATM   16  C4' BOG A 301       5.602  -7.012  25.923  1.00 21.32         A C  
+ANISOU   16  C4' BOG A 301     3605   2202   2289  -1365   -441   -753     A C  
+HETATM   17  C5' BOG A 301       6.249  -5.909  25.084  1.00 25.24         A C  
+ANISOU   17  C5' BOG A 301     3587   2264   3739   -459   -317    648     A C  
+HETATM   18  C6' BOG A 301       7.312  -6.356  24.090  1.00 23.21         A C  
+ANISOU   18  C6' BOG A 301     3791   2343   2685   -560   -400    667     A C  
+HETATM   19  C7' BOG A 301       8.539  -6.984  24.692  1.00 30.31         A C  
+ANISOU   19  C7' BOG A 301     4108   3384   4024   1024    660    123     A C  
+HETATM   20  C8' BOG A 301       9.370  -7.269  23.448  1.00 41.25         A C  
+ANISOU   20  C8' BOG A 301     5780   5040   4852   -327   1872    656     A C  

@@ -1,0 +1,79 @@
+REMARK Selection '(segment B) and...d resnum `802`)'
+HETATM    1  PB AADP A 802      12.248  32.703  25.954  0.64 26.47         B P  
+ANISOU    1  PB AADP A 802     3237   3424   3396    -83     45     62     B P  
+HETATM    2  O1BAADP A 802      13.353  32.924  26.972  0.64 28.84         B O  
+ANISOU    2  O1BAADP A 802     3720   3769   3469    -36    122    161     B O  
+HETATM    3  O2BAADP A 802      12.536  31.635  24.992  0.64 27.31         B O  
+ANISOU    3  O2BAADP A 802     3003   3975   3398    616   -527     50     B O  
+HETATM    4  O3BAADP A 802      11.616  33.989  25.385  0.64 26.36         B O  
+ANISOU    4  O3BAADP A 802     3133   3293   3589    244   -648    205     B O  
+HETATM    5  PA AADP A 802      10.379  32.731  28.173  0.64 23.29         B P  
+ANISOU    5  PA AADP A 802     2641   3071   3135    359   -225     35     B P  
+HETATM    6  O1AAADP A 802      10.766  31.923  29.393  0.64 23.40         B O  
+ANISOU    6  O1AAADP A 802     2795   2957   3141    394   -144     57     B O  
+HETATM    7  O2AAADP A 802      10.697  34.203  28.129  0.64 21.83         B O  
+ANISOU    7  O2AAADP A 802     2399   2880   3017    317   -188   -217     B O  
+HETATM    8  O3AAADP A 802      11.032  32.045  26.839  0.64 25.44         B O  
+ANISOU    8  O3AAADP A 802     3212   3271   3185    -16   -148    174     B O  
+HETATM    9  O5'AADP A 802       8.810  32.543  27.912  0.64 22.06         B O  
+ANISOU    9  O5'AADP A 802     2541   2934   2906    195   -220     43     B O  
+HETATM   10  C5'AADP A 802       8.223  31.244  27.909  0.64 21.38         B C  
+ANISOU   10  C5'AADP A 802     2560   2806   2756    216   -284    318     B C  
+HETATM   11  C4'AADP A 802       6.718  31.420  27.737  0.64 21.53         B C  
+ANISOU   11  C4'AADP A 802     2687   2806   2686    375    -92    361     B C  
+HETATM   12  O4'AADP A 802       6.220  32.081  28.908  0.64 21.26         B O  
+ANISOU   12  O4'AADP A 802     2752   2753   2572    547    -92    284     B O  
+HETATM   13  C3'AADP A 802       6.269  32.286  26.552  0.64 22.59         B C  
+ANISOU   13  C3'AADP A 802     2920   2963   2702    256    -44    370     B C  
+HETATM   14  O3'AADP A 802       5.013  31.801  26.041  0.64 22.92         B O  
+ANISOU   14  O3'AADP A 802     3110   2800   2801    108     90    395     B O  
+HETATM   15  C2'AADP A 802       6.066  33.655  27.178  0.64 21.64         B C  
+ANISOU   15  C2'AADP A 802     2765   2918   2539    463   -131    270     B C  
+HETATM   16  O2'AADP A 802       5.197  34.549  26.478  0.64 22.04         B O  
+ANISOU   16  O2'AADP A 802     2891   3141   2341    407    -32    277     B O  
+HETATM   17  C1'AADP A 802       5.506  33.255  28.537  0.64 20.61         B C  
+ANISOU   17  C1'AADP A 802     2529   2765   2538    515   -152    224     B C  
+HETATM   18  N9 AADP A 802       5.736  34.272  29.571  0.64 18.84         B N  
+ANISOU   18  N9 AADP A 802     2085   2657   2417    480   -318     60     B N  
+HETATM   19  C8 AADP A 802       6.922  34.847  29.865  0.64 19.04         B C  
+ANISOU   19  C8 AADP A 802     2167   2617   2448    205   -183    -57     B C  
+HETATM   20  N7 AADP A 802       6.769  35.727  30.885  0.64 18.60         B N  
+ANISOU   20  N7 AADP A 802     2062   2600   2405    150   -103   -151     B N  
+HETATM   21  C5 AADP A 802       5.473  35.692  31.237  0.64 18.95         B C  
+ANISOU   21  C5 AADP A 802     2365   2400   2434    288    -77   -188     B C  
+HETATM   22  C6 AADP A 802       4.660  36.398  32.214  0.64 18.50         B C  
+ANISOU   22  C6 AADP A 802     2364   2386   2280      9    -67   -223     B C  
+HETATM   23  N6 AADP A 802       5.207  37.294  33.046  0.64 18.38         B N  
+ANISOU   23  N6 AADP A 802     2304   2488   2192   -262     32   -262     B N  
+HETATM   24  N1 AADP A 802       3.349  36.145  32.278  0.64 17.86         B N  
+ANISOU   24  N1 AADP A 802     2212   2294   2279     20     -7    -68     B N  
+HETATM   25  C2 AADP A 802       2.769  35.241  31.461  0.64 18.21         B C  
+ANISOU   25  C2 AADP A 802     2098   2471   2348     52    133    191     B C  
+HETATM   26  N3 AADP A 802       3.452  34.554  30.518  0.64 18.72         B N  
+ANISOU   26  N3 AADP A 802     2285   2488   2342    291    -14     69     B N  
+HETATM   27  C4 AADP A 802       4.782  34.755  30.372  0.64 19.13         B C  
+ANISOU   27  C4 AADP A 802     2309   2523   2438    409   -139    -42     B C  
+HETATM   28 H5'1AADP A 802       8.437  30.732  28.849  0.64 25.66         B H  
+ANISOU   28 H5'1AADP A 802        0      0      0      0      0      0     B H  
+HETATM   29 H5'2AADP A 802       8.628  30.650  27.087  0.64 25.66         B H  
+ANISOU   29 H5'2AADP A 802        0      0      0      0      0      0     B H  
+HETATM   30  H4'AADP A 802       6.255  30.427  27.644  0.64 25.83         B H  
+ANISOU   30  H4'AADP A 802        0      0      0      0      0      0     B H  
+HETATM   31  H3'AADP A 802       7.047  32.322  25.776  0.64 27.11         B H  
+ANISOU   31  H3'AADP A 802        0      0      0      0      0      0     B H  
+HETATM   32 HO3'AADP A 802       4.735  32.349  25.295  0.64 27.51         B H  
+ANISOU   32 HO3'AADP A 802        0      0      0      0      0      0     B H  
+HETATM   33  H2'AADP A 802       7.049  34.125  27.326  0.64 25.97         B H  
+ANISOU   33  H2'AADP A 802        0      0      0      0      0      0     B H  
+HETATM   34 HO2'AADP A 802       5.559  34.729  25.599  0.64 26.45         B H  
+ANISOU   34 HO2'AADP A 802        0      0      0      0      0      0     B H  
+HETATM   35  H1'AADP A 802       4.433  33.038  28.440  0.64 24.74         B H  
+ANISOU   35  H1'AADP A 802        0      0      0      0      0      0     B H  
+HETATM   36  H8 AADP A 802       7.861  34.622  29.375  0.64 22.85         B H  
+ANISOU   36  H8 AADP A 802        0      0      0      0      0      0     B H  
+HETATM   37 HN61AADP A 802       6.195  37.496  32.991  0.64 22.06         B H  
+ANISOU   37 HN61AADP A 802        0      0      0      0      0      0     B H  
+HETATM   38 HN62AADP A 802       4.631  37.770  33.725  0.64 22.06         B H  
+ANISOU   38 HN62AADP A 802        0      0      0      0      0      0     B H  
+HETATM   39  H2 AADP A 802       1.705  35.063  31.560  0.64 21.85         B H  
+ANISOU   39  H2 AADP A 802        0      0      0      0      0      0     B H  

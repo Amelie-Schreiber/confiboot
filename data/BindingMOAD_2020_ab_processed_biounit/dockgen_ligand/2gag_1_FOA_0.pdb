@@ -1,0 +1,9 @@
+REMARK Selection '(segment A) and...d resnum `997`)'
+HETATM    1  C1  FOA A 997     -13.583  14.493 -51.562  1.00 32.56         A C  
+HETATM    2  C2  FOA A 997     -12.136  14.348 -51.360  1.00 32.86         A C  
+HETATM    3  C3  FOA A 997     -11.249  15.051 -50.613  1.00 35.75         A C  
+HETATM    4  C4  FOA A 997      -9.990  14.449 -50.825  1.00 39.26         A C  
+HETATM    5  C5  FOA A 997     -10.175  13.424 -51.681  1.00 36.60         A C  
+HETATM    6  O6  FOA A 997     -14.161  13.680 -52.344  1.00 32.99         A O  
+HETATM    7  O7  FOA A 997     -14.167  15.422 -50.949  1.00 28.61         A O  
+HETATM    8  O8  FOA A 997     -11.491  13.329 -52.037  1.00 38.12         A O  

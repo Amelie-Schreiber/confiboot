@@ -1,0 +1,25 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  FAC OJ2 A 602      23.816 -11.601  13.833  1.00 64.34         A F  
+HETATM    2  CAX OJ2 A 602      23.072 -12.235  12.910  1.00 62.98         A C  
+HETATM    3  FAD OJ2 A 602      22.368 -13.243  13.446  1.00 67.08         A F  
+HETATM    4  FAE OJ2 A 602      23.881 -12.692  11.950  1.00 63.24         A F  
+HETATM    5  OAR OJ2 A 602      22.163 -11.364  12.305  1.00 55.93         A O  
+HETATM    6  CAU OJ2 A 602      21.225 -10.692  13.115  1.00 48.79         A C  
+HETATM    7  CAM OJ2 A 602      21.546  -9.441  13.645  1.00 43.16         A C  
+HETATM    8  CAJ OJ2 A 602      19.920 -11.169  13.215  1.00 45.40         A C  
+HETATM    9  CAH OJ2 A 602      18.956 -10.411  13.863  1.00 42.82         A C  
+HETATM   10  CAI OJ2 A 602      19.294  -9.169  14.407  1.00 43.07         A C  
+HETATM   11  CAT OJ2 A 602      20.617  -8.725  14.392  1.00 41.38         A C  
+HETATM   12  NAP OJ2 A 602      20.857  -7.404  14.830  1.00 37.97         A N  
+HETATM   13  CAS OJ2 A 602      22.028  -6.636  14.662  1.00 38.72         A C  
+HETATM   14  OAA OJ2 A 602      23.071  -7.110  14.246  1.00 44.70         A O  
+HETATM   15  NAQ OJ2 A 602      21.892  -5.266  14.991  1.00 36.59         A N  
+HETATM   16  CAW OJ2 A 602      22.861  -4.226  14.862  1.00 36.91         A C  
+HETATM   17  CAL OJ2 A 602      24.116  -4.421  14.256  1.00 35.02         A C  
+HETATM   18  CAG OJ2 A 602      25.012  -3.356  14.118  1.00 35.07         A C  
+HETATM   19  CAF OJ2 A 602      24.631  -2.074  14.499  1.00 32.25         A C  
+HETATM   20  CAK OJ2 A 602      23.352  -1.870  15.023  1.00 35.51         A C  
+HETATM   21  CAV OJ2 A 602      22.444  -2.921  15.155  1.00 36.74         A C  
+HETATM   22  CAO OJ2 A 602      21.055  -2.647  15.730  1.00 39.71         A C  
+HETATM   23  CAN OJ2 A 602      19.959  -2.806  14.696  1.00 39.61         A C  
+HETATM   24  OAB OJ2 A 602      18.743  -3.051  15.375  1.00 40.80         A O  

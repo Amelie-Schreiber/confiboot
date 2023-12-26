@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and... resnum `1344`)'
+HETATM    1  C1' SAL A1344      47.899  62.697  88.753  1.00 19.55         A C  
+HETATM    2  O1' SAL A1344      47.486  61.541  88.816  1.00 17.91         A O  
+HETATM    3  O2' SAL A1344      48.450  62.989  87.697  1.00 19.04         A O  
+HETATM    4  C1  SAL A1344      47.748  63.630  89.821  1.00 21.91         A C  
+HETATM    5  C2  SAL A1344      47.115  63.311  91.049  1.00 23.24         A C  
+HETATM    6  C3  SAL A1344      46.955  64.244  92.120  1.00 22.11         A C  
+HETATM    7  C4  SAL A1344      47.451  65.546  91.949  1.00 21.09         A C  
+HETATM    8  C5  SAL A1344      48.094  65.940  90.754  1.00 21.86         A C  
+HETATM    9  C6  SAL A1344      48.237  64.970  89.697  1.00 22.19         A C  
+HETATM   10  O2  SAL A1344      46.609  62.073  91.282  1.00 25.58         A O  

@@ -1,0 +1,16 @@
+REMARK Selection '(segment A) and...d resnum `601`)'
+HETATM    1  CAA ZME A 601      24.042 -12.428  11.584  1.00 69.53         A C  
+HETATM    2  CAK ZME A 601      22.679 -12.086  12.152  1.00 70.10         A C  
+HETATM    3  CAF ZME A 601      22.279 -10.847  12.660  1.00 68.71         A C  
+HETATM    4  CAC ZME A 601      21.592 -12.973  12.261  1.00 69.71         A C  
+HETATM    5  CAE ZME A 601      20.531 -12.273  12.828  1.00 69.52         A C  
+HETATM    6  N6  ZME A 601      20.960 -10.891  13.091  1.00 67.77         A N  
+HETATM    7  C6  ZME A 601      20.127  -9.874  13.636  1.00 64.46         A C  
+HETATM    8  N1  ZME A 601      18.811 -10.063  13.491  1.00 64.22         A N  
+HETATM    9  C2  ZME A 601      17.891  -9.124  13.974  1.00 64.66         A C  
+HETATM   10  N3  ZME A 601      18.394  -7.984  14.607  1.00 62.54         A N  
+HETATM   11  C4  ZME A 601      19.695  -7.821  14.716  1.00 61.27         A C  
+HETATM   12  C5  ZME A 601      20.568  -8.769  14.225  1.00 61.97         A C  
+HETATM   13  N7  ZME A 601      21.898  -8.174  14.596  1.00 60.15         A N  
+HETATM   14  C8  ZME A 601      21.614  -7.007  15.226  1.00 60.43         A C  
+HETATM   15  N9  ZME A 601      20.395  -6.940  15.220  1.00 59.76         A N  

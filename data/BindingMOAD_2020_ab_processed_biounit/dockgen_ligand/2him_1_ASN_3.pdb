@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and... resnum `8004`)'
+HETATM    1  N   ASN D8004     -51.406  -1.376  36.597  1.00 20.91         A N  
+HETATM    2  CA  ASN D8004     -52.027  -1.488  35.309  1.00 20.63         A C  
+HETATM    3  C   ASN D8004     -53.549  -1.494  35.600  1.00 22.77         A C  
+HETATM    4  O   ASN D8004     -54.265  -2.011  34.711  1.00 23.41         A O  
+HETATM    5  CB  ASN D8004     -51.530  -2.767  34.587  1.00 20.57         A C  
+HETATM    6  CG  ASN D8004     -51.845  -4.152  35.271  1.00 19.44         A C  
+HETATM    7  OD1 ASN D8004     -51.988  -4.263  36.505  1.00 19.10         A O  
+HETATM    8  ND2 ASN D8004     -51.960  -5.188  34.453  1.00 19.72         A N  
+HETATM    9  OXT ASN D8004     -53.966  -1.004  36.695  1.00 23.50         A O  

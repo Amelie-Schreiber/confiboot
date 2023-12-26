@@ -1,0 +1,16 @@
+REMARK Selection '(segment A) and... resnum `1999`)'
+HETATM    1  N   ING B1999      47.762  16.760  24.460  1.00 16.32         A N  
+HETATM    2  CA  ING B1999      47.185  16.737  25.808  1.00 18.68         A C  
+HETATM    3  C   ING B1999      45.788  16.151  25.767  1.00 17.69         A C  
+HETATM    4  O   ING B1999      45.446  15.219  25.090  1.00 18.99         A O  
+HETATM    5  CG  ING B1999      48.428  16.641  27.963  1.00 21.50         A C  
+HETATM    6  CB  ING B1999      48.074  15.886  26.717  1.00 20.86         A C  
+HETATM    7  CD1 ING B1999      47.574  16.509  29.116  1.00 23.97         A C  
+HETATM    8  CD2 ING B1999      49.604  17.474  28.029  1.00 21.52         A C  
+HETATM    9  CE1 ING B1999      47.877  17.237  30.323  1.00 23.90         A C  
+HETATM   10  CE2 ING B1999      49.903  18.208  29.235  1.00 25.28         A C  
+HETATM   11  CZ  ING B1999      49.057  18.054  30.394  1.00 24.87         A C  
+HETATM   12  OXT ING B1999      44.988  16.820  26.590  1.00 18.26         A O  
+HETATM   13  C1  ING B1999      47.510  17.769  23.560  1.00 17.87         A C  
+HETATM   14  N1  ING B1999      48.130  17.696  22.335  1.00 17.11         A N  
+HETATM   15  O1  ING B1999      46.752  18.685  23.822  1.00 16.16         A O  

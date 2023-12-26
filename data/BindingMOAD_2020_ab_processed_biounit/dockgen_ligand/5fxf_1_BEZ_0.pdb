@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and...d resnum `601`)'
+HETATM    1  C   BEZ B 601      -3.540  -6.413  10.497  1.00 35.79         A C  
+HETATM    2  O1  BEZ B 601      -3.641  -5.653   9.499  1.00 28.21         A O  
+HETATM    3  O2  BEZ B 601      -3.245  -6.053  11.692  1.00 36.26         A O  
+HETATM    4  C1  BEZ B 601      -3.924  -7.828  10.209  1.00 32.62         A C  
+HETATM    5  C2  BEZ B 601      -4.380  -8.174   8.922  1.00 33.56         A C  
+HETATM    6  C3  BEZ B 601      -4.824  -9.461   8.688  1.00 31.69         A C  
+HETATM    7  C4  BEZ B 601      -4.856 -10.381   9.721  1.00 30.60         A C  
+HETATM    8  C5  BEZ B 601      -4.383 -10.018  10.976  1.00 31.95         A C  
+HETATM    9  C6  BEZ B 601      -3.936  -8.731  11.242  1.00 29.82         A C  

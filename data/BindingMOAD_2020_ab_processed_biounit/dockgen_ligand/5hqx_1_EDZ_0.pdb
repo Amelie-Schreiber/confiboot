@@ -1,0 +1,37 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  CAC EDZ A 602     -26.761   3.883 -35.648  1.00 48.10         A C  
+ANISOU    1  CAC EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    2  CAD EDZ A 602     -26.982   5.180 -36.101  1.00 46.27         A C  
+ANISOU    2  CAD EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    3  CAE EDZ A 602     -25.472   3.447 -35.329  1.00 46.25         A C  
+ANISOU    3  CAE EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    4  CAF EDZ A 602     -25.892   6.037 -36.246  1.00 44.64         A C  
+ANISOU    4  CAF EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    5  CAG EDZ A 602     -20.837  10.046 -37.782  1.00 62.04         A C  
+ANISOU    5  CAG EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    6  CAH EDZ A 602     -21.983   3.756 -36.089  1.00 53.07         A C  
+ANISOU    6  CAH EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    7  CAI EDZ A 602     -23.025   3.833 -35.001  1.00 51.34         A C  
+ANISOU    7  CAI EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    8  CAO EDZ A 602     -23.453   7.787 -36.539  1.00 52.58         A C  
+ANISOU    8  CAO EDZ A 602        0      0      0      0      0      0     A C  
+HETATM    9  CAP EDZ A 602     -24.387   4.299 -35.489  1.00 47.61         A C  
+ANISOU    9  CAP EDZ A 602        0      0      0      0      0      0     A C  
+HETATM   10  CAQ EDZ A 602     -22.025   9.650 -37.279  1.00 59.69         A C  
+ANISOU   10  CAQ EDZ A 602        0      0      0      0      0      0     A C  
+HETATM   11  CAR EDZ A 602     -24.601   5.618 -35.895  1.00 46.94         A C  
+ANISOU   11  CAR EDZ A 602        0      0      0      0      0      0     A C  
+HETATM   12  NAJ EDZ A 602     -21.055  11.436 -38.583  1.00 63.90         A N  
+ANISOU   12  NAJ EDZ A 602        0      0      0      0      0      0     A N  
+HETATM   13  NAK EDZ A 602     -22.400  11.724 -38.566  1.00 66.26         A N  
+ANISOU   13  NAK EDZ A 602        0      0      0      0      0      0     A N  
+HETATM   14  NAL EDZ A 602     -22.187   8.404 -36.644  1.00 52.93         A N  
+ANISOU   14  NAL EDZ A 602        0      0      0      0      0      0     A N  
+HETATM   15  NAM EDZ A 602     -23.463   6.461 -36.028  1.00 49.53         A N  
+ANISOU   15  NAM EDZ A 602        0      0      0      0      0      0     A N  
+HETATM   16  OAA EDZ A 602     -24.485   8.370 -36.848  1.00 52.78         A O  
+ANISOU   16  OAA EDZ A 602        0      0      0      0      0      0     A O  
+HETATM   17  OAB EDZ A 602     -20.750   3.908 -35.426  1.00 54.98         A O  
+ANISOU   17  OAB EDZ A 602        0      0      0      0      0      0     A O  
+HETATM   18  SAN EDZ A 602     -23.139  10.626 -37.816  1.00 62.27         A S  
+ANISOU   18  SAN EDZ A 602        0      0      0      0      0      0     A S  

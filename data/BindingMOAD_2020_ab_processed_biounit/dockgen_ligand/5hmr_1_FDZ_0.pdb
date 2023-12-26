@@ -1,0 +1,41 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  C01 FDZ A 602      -9.866  19.029 -14.005  1.00 41.96         A C  
+ANISOU    1  C01 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM    2  C02 FDZ A 602      -8.556  19.210 -14.456  1.00 41.05         A C  
+ANISOU    2  C02 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM    3  C03 FDZ A 602      -8.016  20.491 -14.550  1.00 37.42         A C  
+ANISOU    3  C03 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM    4  C04 FDZ A 602      -8.775  21.594 -14.194  1.00 42.67         A C  
+ANISOU    4  C04 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM    5  C05 FDZ A 602     -10.077  21.433 -13.745  1.00 48.00         A C  
+ANISOU    5  C05 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM    6  C06 FDZ A 602     -10.631  20.144 -13.679  1.00 44.11         A C  
+ANISOU    6  C06 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM    7  O07 FDZ A 602     -10.796  22.631 -13.519  1.00 55.22         A O  
+ANISOU    7  O07 FDZ A 602        0      0      0      0      0      0     A O  
+HETATM    8  C08 FDZ A 602     -11.778  22.671 -12.524  1.00 60.79         A C  
+ANISOU    8  C08 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM    9  F09 FDZ A 602     -12.844  21.949 -12.907  1.00 64.04         A F  
+ANISOU    9  F09 FDZ A 602        0      0      0      0      0      0     A F  
+HETATM   10  F10 FDZ A 602     -12.122  23.950 -12.365  1.00 59.44         A F  
+ANISOU   10  F10 FDZ A 602        0      0      0      0      0      0     A F  
+HETATM   11  F11 FDZ A 602     -11.272  22.202 -11.381  1.00 63.88         A F  
+ANISOU   11  F11 FDZ A 602        0      0      0      0      0      0     A F  
+HETATM   12  N12 FDZ A 602      -6.662  20.617 -14.936  1.00 35.14         A N  
+ANISOU   12  N12 FDZ A 602        0      0      0      0      0      0     A N  
+HETATM   13  C13 FDZ A 602      -5.842  21.750 -14.707  1.00 34.60         A C  
+ANISOU   13  C13 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM   14  O14 FDZ A 602      -6.279  22.779 -14.204  1.00 36.28         A O  
+ANISOU   14  O14 FDZ A 602        0      0      0      0      0      0     A O  
+HETATM   15  N15 FDZ A 602      -4.478  21.643 -15.047  1.00 36.70         A N  
+ANISOU   15  N15 FDZ A 602        0      0      0      0      0      0     A N  
+HETATM   16  C16 FDZ A 602      -3.608  22.747 -14.826  1.00 38.51         A C  
+ANISOU   16  C16 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM   17  C17 FDZ A 602      -2.251  22.839 -15.109  1.00 39.23         A C  
+ANISOU   17  C17 FDZ A 602        0      0      0      0      0      0     A C  
+HETATM   18  N18 FDZ A 602      -1.731  24.027 -14.797  1.00 40.09         A N  
+ANISOU   18  N18 FDZ A 602        0      0      0      0      0      0     A N  
+HETATM   19  N19 FDZ A 602      -2.554  24.943 -14.263  1.00 41.98         A N  
+ANISOU   19  N19 FDZ A 602        0      0      0      0      0      0     A N  
+HETATM   20  S20 FDZ A 602      -4.004  24.264 -14.138  1.00 41.86         A S  
+ANISOU   20  S20 FDZ A 602        0      0      0      0      0      0     A S  

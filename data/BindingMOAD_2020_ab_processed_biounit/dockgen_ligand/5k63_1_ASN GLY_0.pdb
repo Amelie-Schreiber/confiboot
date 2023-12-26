@@ -1,0 +1,14 @@
+REMARK Selection '(segment A) and...num `501to502`)'
+HETATM    1  N   ASN A 501      41.131 134.491 116.577  1.00 43.63         A N  
+HETATM    2  CA  ASN A 501      42.556 134.466 116.267  1.00 43.71         A C  
+HETATM    3  C   ASN A 501      43.087 135.869 115.949  1.00 43.21         A C  
+HETATM    4  O   ASN A 501      44.288 136.068 115.791  1.00 41.79         A O  
+HETATM    5  CB  ASN A 501      42.826 133.516 115.093  1.00 41.47         A C  
+HETATM    6  CG  ASN A 501      42.549 132.053 115.440  1.00 43.42         A C  
+HETATM    7  OD1 ASN A 501      41.399 131.613 115.474  1.00 43.51         A O  
+HETATM    8  ND2 ASN A 501      43.608 131.294 115.693  1.00 43.96         A N  
+HETATM    9  HA  ASN A 501      43.040 134.132 117.039  1.00 52.46         A H  
+HETATM   10  N   GLY A 502      42.188 136.842 115.862  1.00 46.22         A N  
+HETATM   11  CA  GLY A 502      42.592 138.196 115.534  1.00 46.79         A C  
+HETATM   12  C   GLY A 502      41.452 139.194 115.536  1.00 49.48         A C  
+HETATM   13  O   GLY A 502      41.290 139.959 116.489  1.00 52.92         A O  
