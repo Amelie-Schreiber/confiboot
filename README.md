@@ -2,6 +2,12 @@
 
 Here we provide our implementation of the Confidence Bootstrapping method, pretrained diffusion and confidence models, and processed receptors from the DockGen-clusters validation and test sets. 
 
+---
+## Alternate Setup:
+(*Amelie*):
+Setting up the conda/mamba environment using the `environment.yml` file has been problematic for me, so I decided to try setting up the environment manually using [DiffDock-Pocket] as a template. This seems to work, but there may still be bugs. Try creating an environment using the `environment_alternate.yml` file. 
+---
+
 ## Dataset
 
 The Binding MOAD database can be downloaded from [http://www.bindingmoad.org/]. All 189 complexes in the DockGen test set can be found in `data/BindingMOAD_2020_ab_processed_biounit/test_names.npy`, and the 85 complexes from 8 clusters we tested Confidence Bootstrapping on can be found in `data/BindingMOAD_2020_ab_processed_biounit/test_names_bootstrapping.npy`. The list of complexes in the DockGen benchmark can be found at `data/BindingMOAD_2020_ab_processed_biounit/new_cluster_to_ligands.pkl`. Complexes from Binding MOAD should be downloaded also to `data/BindingMOAD_2020_ab_processed_biounit`. Here, we also provide the ligands and receptors used in the test set at `data/BindingMOAD_2020_ab_processed_biounit/MOAD_ligands` and `data/MOAD_new_test_processed` respectively.
