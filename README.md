@@ -130,3 +130,106 @@ Note that the command above is not the same as the one used in experiments in th
 
 Then, we can run the finetuning command with `--keep_original_train` and `--totoal_trainset_size 100` to reproduce paper numbers.
 
+## Inference
+
+Try modifying the following command to run inference:
+
+```
+python script.py \
+  --config <CONFIG_FILE> \
+  --model_dir workdir \
+  --ckpt best_model.pt \
+  --filtering_model_dir <FILTERING_MODEL_DIR> \
+  --filtering_ckpt best_model.pt \
+  --affinity_model_dir <AFFINITY_MODEL_DIR> \
+  --affinity_ckpt best_model.pt \
+  --num_cpu <NUM_CPU> \
+  --run_name test \
+  --project ligbind_inf \
+  --out_dir <OUT_DIR> \
+  --batch_size 40 \
+  --old_score_model \
+  --old_filtering_model \
+  --old_affinity_model \
+  --matching_popsize 40 \
+  --matching_maxiter 40 \
+  --esm_embeddings_path <ESM_EMBEDDINGS_PATH> \
+  --moad_esm_embeddings_sequences_path <MOAD_ESM_EMBEDDINGS_SEQUENCES_PATH> \
+  --chain_cutoff <CHAIN_CUTOFF> \
+  --use_full_size_protein_file \
+  --use_original_protein_file \
+  --save_complexes \
+  --complexes_save_path <COMPLEXES_SAVE_PATH> \
+  --dataset moad \
+  --cache_path data/cacheMOAD \
+  --data_dir data/BindingMOAD_2020_ab_processed_biounit/ \
+  --split_path data/BindingMOAD_2020_ab_processed/splits/val.txt \
+  --no_model \
+  --no_random \
+  --no_final_step_noise \
+  --overwrite_no_final_step_noise \
+  --ode \
+  --wandb \
+  --overwrite_wandb \
+  --inference_steps 20 \
+  --limit_complexes <LIMIT_COMPLEXES> \
+  --num_workers 1 \
+  --tqdm \
+  --save_visualisation \
+  --samples_per_complex 4 \
+  --resample_rdkit \
+  --skip_matching \
+  --sigma_schedule expbeta \
+  --inf_sched_alpha 1 \
+  --inf_sched_beta 1 \
+  --different_schedules \
+  --overwrite_different_schedules \
+  --rot_sigma_schedule expbeta \
+  --rot_inf_sched_alpha 1 \
+  --rot_inf_sched_beta 1 \
+  --tor_sigma_schedule expbeta \
+  --tor_inf_sched_alpha 1 \
+  --tor_inf_sched_beta 1 \
+  --pocket_knowledge \
+  --no_random_pocket \
+  --overwrite_pocket_knowledge \
+  --pocket_tr_max 3 \
+  --pocket_cutoff 5 \
+  --actual_steps <ACTUAL_STEPS> \
+  --xtb \
+  --use_true_pivot \
+  --restrict_cpu \
+  --force_fixed_center_conv \
+  --protein_file protein_processed \
+  --unroll_clusters \
+  --remove_pdbbind \
+  --split val \
+  --limit_failures 5 \
+  --min_ligand_size <MIN_LIGAND_SIZE> \
+  --max_receptor_size <MAX_RECEPTOR_SIZE> \
+  --remove_promiscuous_targets <REMOVE_PROMISCUOUS_TARGETS> \
+  --svgd_weight_log_0 <SVG_WEIGHT_LOG_0> \
+  --svgd_weight_log_1 <SVG_WEIGHT_LOG_1> \
+  --svgd_repulsive_weight_log_0 <SVG_REPULSIVE_WEIGHT_LOG_0> \
+  --svgd_repulsive_weight_log_1 <SVG_REPULSIVE_WEIGHT_LOG_1> \
+  --svgd_langevin_weight_log_0 <SVG_LANGEVIN_WEIGHT_LOG_0> \
+  --svgd_langevin_weight_log_1 <SVG_LANGEVIN_WEIGHT_LOG_1> \
+  --svgd_kernel_size_log_0 <SVG_KERNEL_SIZE_LOG_0> \
+  --svgd_kernel_size_log_1 <SVG_KERNEL_SIZE_LOG_1> \
+  --svgd_rot_log_rel_weight <SVG_ROT_LOG_REL_WEIGHT> \
+  --svgd_tor_log_rel_weight <SVG_TOR_LOG_REL_WEIGHT> \
+  --svgd_use_x0 \
+  --temp_sampling_tr 1.0 \
+  --temp_psi_tr 0.0 \
+  --temp_sampling_rot 1.0 \
+  --temp_psi_rot 0.0 \
+  --temp_sampling_tor 1.0 \
+  --temp_psi_tor 0.0 \
+  --temp_sigma_data 0.5 \
+  --gnina_minimize \
+  --gnina_log_file gnina_log.txt \
+  --gnina_full_dock \
+  --save_gnina_metrics \
+  --gnina_autobox_add 4.0 \
+  --gnina_poses_to_optimize 1
+```
