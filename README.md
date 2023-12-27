@@ -1,4 +1,4 @@
-# (Unofficial Implementation) The Discovery of Binding Modes Requires Rethinking Docking Generalization
+# (Unofficial Implementation) DiffDock-CB: The Discovery of Binding Modes Requires Rethinking Docking Generalization
 
 Here we provide our implementation of the Confidence Bootstrapping method, pretrained diffusion and confidence models, and processed receptors from the DockGen-clusters validation and test sets. 
 
