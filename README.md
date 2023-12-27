@@ -7,7 +7,29 @@ Here we provide our implementation of the Confidence Bootstrapping method, pretr
 ## Alternate Setup:
 
 
-*Setting up the conda/mamba environment using the `environment.yml` file has been problematic for me, so I decided to try setting up the environment manually using [DiffDock-Pocket](https://anonymous.4open.science/r/DiffDock-Pocket-AQ32/README.md) as a template. This seems to work, but there may still be bugs. Try creating an environment using the `environment_alternate_2.yml` file.*
+*Setting up the conda/mamba environment using the `environment.yml` file has been problematic for me, so I decided to try setting up the environment manually using [DiffDock-Pocket](https://anonymous.4open.science/r/DiffDock-Pocket-AQ32/README.md) as a template. This seems to work, but there may still be bugs. Try creating an environment using the `environment_alternate_2.yml` file as follows:*
+
+**Clone this Repo:**
+```
+git clone https://github.com/Amelie-Schreiber/confiboot.git
+```
+**Change Directories:**
+```
+cd confiboot
+```
+**Create Conda Environment:**
+```
+conda env create -f environment_alternate_2.yml
+```
+or if you are using mamba
+```
+mamba env create -f environment_alternate_2.yml
+```
+**Activate the Environment:**
+```
+conda activate diffdock-cb1
+```
+Now you can skip the "**Setup**" section below and just use `diffdock-cb1` as your environment. 
 
 ---
 
