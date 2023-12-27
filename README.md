@@ -29,7 +29,7 @@ mamba env create -f environment_alternate_2.yml
 ```
 conda activate diffdock-cb1
 ```
-Now you can skip the "**Setup**" section below and just use `diffdock-cb1` as your environment. 
+Now you can skip the "**Setup**" section below, move on to the "**ESM Embeddings**" section, and just use `diffdock-cb1` as your environment. 
 
 ---
 
