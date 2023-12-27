@@ -135,7 +135,7 @@ Then, we can run the finetuning command with `--keep_original_train` and `--toto
 Try modifying the following command to run inference:
 
 ```
-python script.py \
+python inference.py \
   --config <CONFIG_FILE> \
   --model_dir workdir \
   --ckpt best_model.pt \
