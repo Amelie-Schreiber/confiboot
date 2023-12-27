@@ -176,7 +176,7 @@ python script.py \
   --num_workers 1 \
   --tqdm \
   --save_visualisation \
-  --samples_per_complex 4 \
+  --samples_per_complex 100 \
   --resample_rdkit \
   --skip_matching \
   --sigma_schedule expbeta \
@@ -195,7 +195,7 @@ python script.py \
   --overwrite_pocket_knowledge \
   --pocket_tr_max 3 \
   --pocket_cutoff 5 \
-  --actual_steps <ACTUAL_STEPS> \
+  --actual_steps 18 \
   --xtb \
   --use_true_pivot \
   --restrict_cpu \
