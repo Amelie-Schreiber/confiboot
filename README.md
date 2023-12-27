@@ -7,7 +7,7 @@ Here we provide our implementation of the Confidence Bootstrapping method, pretr
 ## Alternate Setup:
 
 
-*Setting up the conda/mamba environment using the `environment.yml` file has been problematic for me, so I decided to try setting up the environment manually using [DiffDock-Pocket] as a template. This seems to work, but there may still be bugs. Try creating an environment using the `environment_alternate.yml` file.*
+*Setting up the conda/mamba environment using the `environment.yml` file has been problematic for me, so I decided to try setting up the environment manually using [DiffDock-Pocket](https://anonymous.4open.science/r/DiffDock-Pocket-AQ32/README.md) as a template. This seems to work, but there may still be bugs. Try creating an environment using the `environment_alternate.yml` file.*
 
 ---
 
